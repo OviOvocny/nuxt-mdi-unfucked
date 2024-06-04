@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-mdi",
-  "version": "1.1.6",
-  "description": "Easy mdi icons in your Nuxt 3 project",
-  "repository": "ERPedersen/nuxt-mdi",
+  "name": "nuxt-mdi-unfucked",
+  "version": "69.0.1",
+  "description": "Unfucked mdi icons in your Nuxt 3 project",
+  "repository": "OviOvocny/nuxt-mdi-unfucked",
   "license": "MIT",
   "type": "module",
   "exports": {
